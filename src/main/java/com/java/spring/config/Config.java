@@ -9,7 +9,6 @@ public class Config extends AbstractAnnotationConfigDispatcherServletInitializer
 		// TODO Auto-generated method stub
 		return null;
 	}
-
 	@Override
 	protected Class<?>[] getServletConfigClasses() {
 		// TODO Auto-generated method stub
